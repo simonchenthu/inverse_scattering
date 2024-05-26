@@ -1,6 +1,6 @@
 # Inverse Scattering with Husimi Data
 
-The source code for the paper [S. Chen, Z. Ding, Q. Li, L. Zepeda-Núñez. High-frequency limit of the inverse scattering problem: asymptotic convergence from inverse Helmholtz to inverse Liouville. arXiv:2201.03494](https://arxiv.org/abs/2201.03494).
+The source code for the paper [S. Chen, Z. Ding, Q. Li, L. Zepeda-Núñez. High-frequency limit of the inverse scattering problem: asymptotic convergence from inverse Helmholtz to inverse Liouville. SIAM Journal of Imaging Science 16.1 (2023), pp. 111–143.](https://epubs.siam.org/doi/10.1137/22M147075X).
 
 Self contained, Light-weight code for solving the inverse scattering problem with Husimi data via optimization based methods.
 
@@ -31,10 +31,14 @@ If you use this code for academic research, you are encouraged to cite the follo
 
 ```
 @article{ChDiLiZe:2022high,
-  title={High-frequency limit of the inverse scattering problem: asymptotic convergence from inverse Helmholtz to inverse Liouville},
+  title={High-frequency limit of the inverse scattering problem: Asymptotic convergence from inverse Helmholtz to inverse Liouville},
   author={Chen, Shi and Ding, Zhiyan and Li, Qin and Zepeda-N{\'u}{\~n}ez, Leonardo},
-  journal={arXiv preprint arXiv:2201.03494},
-  year={2022}
+  journal={SIAM Journal on Imaging Sciences},
+  volume={16},
+  number={1},
+  pages={111--143},
+  year={2023},
+  publisher={SIAM}
 }
 ```
 
